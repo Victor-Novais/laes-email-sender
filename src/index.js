@@ -27,8 +27,25 @@ async function enviarEmail(destinatario, nome) {
 
 
 const candidatos = [
-    { email: "victornovais1337@gmail.com", nome: "Novais" },
-    { email: "isadora.pereira@ucsal.edu.br", nome: "Isa" },
+    { email: "olucca104@gmail.com", nome: "Enzo Oliveira" },
+    { email: "vmachakcabral@gmail.com", nome: "Vinicius Machak" },
+    { email: "felipelobo.santana@ucsal.edu.br", nome: "Felipe Lobo" },
+    { email: "bernardo.garcia@ucsal.edu.br", nome: "Bernardo Barbosa" },
+    { email: "dev.leonardocdejesus@gmail.com", nome: "Leonardo Cruz" },
+    { email: "emilly.m.limma@gmail.com", nome: "Emilly Araújo " },
+    { email: "rian.novais@ucsal.edu.br", nome: "Rian Novais" },
+    { email: "caiqueramos.silva@ucsal.edu.br", nome: "Caique Ramos" },
+    { email: "joaojeronim7@gmail.com", nome: "joao jeronimo bonfim " },
+    { email: "guilhermeneiva.dev@gmail.com", nome: "Guilherme Neiva" },
+    { email: "danielcampos.santos@ucsal.edu.br", nome: "Daniel Campos" },
+    { email: "eduardopecanha.santos@ucsal.edu.br", nome: "Eduardo Peçanha" },
+    { email: "maria.eulalio@ucsal.com.br", nome: "Maria Luiza Borges" },
+    { email: "brunocmg2006@gmail.com", nome: "Bruno Cruz" },
+    { email: "rian.bene14@gmail.com", nome: "Rian Martins" },
+    { email: "kaua.seixas@ucsal.edu.br", nome: "Kauã Seixas" },
+    { email: "thiago.lima@ucsal.edu.br", nome: "Thiago Henrique Benedictis" },
+    { email: "raniel.santos@ucsal.edu.br", nome: "Raniel Lopes" },
+    { email: "paulooo.cm@gmail.com", nome: "Paulo" },
 
 ];
 
